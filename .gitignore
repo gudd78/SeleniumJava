@@ -1,0 +1,14 @@
+.vs
+.settings
+drivers
+logs
+bin
+target
+test-output
+results
+resources
+.classpath
+.project
+.apt_generated_tests
+.git
+.classpath
